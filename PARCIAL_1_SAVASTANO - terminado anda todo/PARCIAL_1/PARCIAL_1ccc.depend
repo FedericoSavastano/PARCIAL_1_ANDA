@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1570921030 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+
+1571013442 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\funciones.h
+
+1570921030 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\validaciones.h
+
+1570921030 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\equipos.h
+
+1571056994 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571064716 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+	"jugadores.h"
+
+1571064819 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\jugadores.h
+
+1570921030 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1570921030 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\partido.c
+
+1570921030 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\referi.c
+
+1571057075 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\testeo.c
+
+1571061799 source:d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"funciones.h"
+	"jugadores.h"
+	"partido.h"
+	"referi.h"
+	"validaciones.h"
+
+1570921030 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\partido.h
+
+1570921030 d:\programacion\parcial_1_c-master\parcial_1_savastano\parcial_1\referi.h
+

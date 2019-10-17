@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1570913862 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+
+1570860903 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570920031 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+	"jugadores.h"
+
+1570745994 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\referi.c
+
+1570844402 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1570917382 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\validaciones.h
+
+1570920297 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"funciones.h"
+	"jugadores.h"
+	"partido.h"
+	"referi.h"
+	"validaciones.h"
+
+1570843780 source:d:\progrmacion nuevo\parcial_1_savastano\parcial_1\partido.c
+
+1570917473 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\equipos.h
+
+1570856625 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\funciones.h
+
+1570917376 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\jugadores.h
+
+1570843888 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\partido.h
+
+1570843911 d:\progrmacion nuevo\parcial_1_savastano\parcial_1\referi.h
+
+1571287215 source:d:\diosssss\parcial_1_savastano\parcial_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571263903 source:d:\diosssss\parcial_1_savastano\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571091668 d:\diosssss\parcial_1_savastano\parcial_1\validaciones.h
+
+1571286393 source:d:\diosssss\parcial_1_savastano\parcial_1\partido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"partido.h"
+	"funciones.h"
+
+1571282127 source:d:\diosssss\parcial_1_savastano\parcial_1\referi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"referi.h"
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+	"jugadores.h"
+
+1571287808 source:d:\diosssss\parcial_1_savastano\parcial_1\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+
+1571057220 d:\diosssss\parcial_1_savastano\parcial_1\funciones.h
+
+1571089780 d:\diosssss\parcial_1_savastano\parcial_1\equipos.h
+
+1571278758 source:d:\diosssss\parcial_1_savastano\parcial_1\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"equipos.h"
+	"jugadores.h"
+
+1571273966 d:\diosssss\parcial_1_savastano\parcial_1\jugadores.h
+
+1571288344 source:d:\diosssss\parcial_1_savastano\parcial_1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipos.h"
+	"funciones.h"
+	"jugadores.h"
+	"partido.h"
+	"referi.h"
+	"validaciones.h"
+
+1571288533 d:\diosssss\parcial_1_savastano\parcial_1\partido.h
+
+1571287713 d:\diosssss\parcial_1_savastano\parcial_1\referi.h
+
